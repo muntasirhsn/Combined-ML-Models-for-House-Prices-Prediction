@@ -6,3 +6,22 @@
 * Import Data
 * Clean Data
 * Statistical data types and missing values
+### B. Initial Analysis and Baseline Score
+* Visualise the relation between numerical features and Target (SalePrice)
+* Root Mean Squared Logaritmic Error (RMSLE)
+### C. Feature Engineering
+* Interaction Features
+* Create Features with Pandas
+* Additional Features from Principal Component Analysis (PCA)
+### D. Combine different models for improved prediction
+* Hyperparameter Tuning
+* XGB Regressor
+* Gradient Boosting Regressor
+* Ridge Regressor
+* ElasticNet Regressor
+* Compare the score of the different models
+* Fit each model to full training data
+* Define combined models for prediction
+* Make predictions and create submissions
+### Prediction Accuracy
+* Combined model scored an RMSLE of 0.11405 (< Top 1% on Leaderboard)
