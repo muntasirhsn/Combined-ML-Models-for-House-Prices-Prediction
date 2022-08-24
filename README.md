@@ -4,6 +4,7 @@
 ### A. Load and Preprocess data
 * Imports packages
 * Import Data
+
 ![plot1](https://user-images.githubusercontent.com/29087240/186298908-e4e74bc9-026e-4b2b-ac0d-ffc87883df2b.png)
 * Clean Data
 * Statistical data types and missing values
