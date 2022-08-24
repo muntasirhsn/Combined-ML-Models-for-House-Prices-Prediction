@@ -4,11 +4,12 @@
 ### A. Load and Preprocess data
 * Imports packages
 * Import Data
-* ![plot2](https://user-images.githubusercontent.com/29087240/186298661-f23a6ceb-c686-47a3-bb15-5bd516382109.png)
+* ![plot1](https://user-images.githubusercontent.com/29087240/186298908-e4e74bc9-026e-4b2b-ac0d-ffc87883df2b.png)
 * Clean Data
 * Statistical data types and missing values
 ### B. Initial Analysis and Baseline Score
 * Visualise the relation between numerical features and Target (SalePrice)
+![plot2](https://user-images.githubusercontent.com/29087240/186298661-f23a6ceb-c686-47a3-bb15-5bd516382109.png)
 * Root Mean Squared Logaritmic Error (RMSLE)
 ### C. Feature Engineering
 * Interaction Features
