@@ -1,5 +1,5 @@
 ## House prices prediction - [Machine learning competition on Kaggle](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques) - Top 1% 
-#### This notebook provides a solution for the House Prices Advanced Regressions - Machine Learning competition on Kaggle. I have tried to explain the steps in detail wherever posible. Please do not hesitate to contact me if you have any questions. I'll try my best to follow up. You can also find this notebook on [Kaggle](https://www.kaggle.com/code/muntasirphy/house-prices-top-1/notebook?scriptVersionId=103817570). This notebook was partly inspired by the Feature Engineering for House Prices notebook from instructors Ryan Holbrook and Alexis Cook in their [Feature Engineering](https://www.kaggle.com/learn/feature-engineering) course for machine learning.  
+#### This notebook provides a solution for the House Prices Advanced Regressions - Machine Learning competition on Kaggle. I have tried to explain the steps in detail wherever posible. Please do not hesitate to contact me if you have any questions. I'll try my best to follow up. You can also find this notebook on [Kaggle](https://www.kaggle.com/code/muntasirphy/house-prices-top-1/notebook?scriptVersionId=103817570).   
 
 ### A. Load and Preprocess data
 * Imports packages
