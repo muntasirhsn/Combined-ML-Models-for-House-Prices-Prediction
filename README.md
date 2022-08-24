@@ -4,6 +4,7 @@
 ### A. Load and Preprocess data
 * Imports packages
 * Import Data
+* ![plot2](https://user-images.githubusercontent.com/29087240/186298661-f23a6ceb-c686-47a3-bb15-5bd516382109.png)
 * Clean Data
 * Statistical data types and missing values
 ### B. Initial Analysis and Baseline Score
