@@ -22,6 +22,7 @@
 ![plot4](https://user-images.githubusercontent.com/29087240/186299108-79b82b93-d430-4eee-a8d4-4dcb268022dd.png)
 ![plot5](https://user-images.githubusercontent.com/29087240/186299128-ae1bc5c3-90c9-4ec7-ac81-a135abdaa810.png)
 * Transforming Skewed Features
+
 ![image](https://user-images.githubusercontent.com/29087240/187333203-a24cadef-845c-4eec-a34e-07bc41152ead.png)
 * Create Features with Pandas
 * Additional Features from Principal Component Analysis (PCA)
