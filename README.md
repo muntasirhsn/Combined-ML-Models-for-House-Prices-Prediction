@@ -27,7 +27,8 @@
 
 * Transforming Skewed Features
 
-![image](https://user-images.githubusercontent.com/29087240/187333203-a24cadef-845c-4eec-a34e-07bc41152ead.png)
+![image](https://github.com/muntasirhsn/Combined-ML-Models-for-House-Prices-Prediction/assets/29087240/34ee38f5-a8a5-4916-925f-72ca10b3e78b)
+
 
 * Create Features with Pandas
 
