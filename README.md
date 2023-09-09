@@ -52,7 +52,5 @@
 * Fit stacking model to full training data
 * Make predictions
 
-![image](https://github.com/muntasirhsn/Stacking-ML-Model-for-House-Prices-Prediction/assets/29087240/5739c5aa-f92e-4ee8-baec-c20b473caafc)
-
 ### Prediction Accuracy
 * Combined model scored an RMSLE of 0.11405 (< Top 1% on Leaderboard)
