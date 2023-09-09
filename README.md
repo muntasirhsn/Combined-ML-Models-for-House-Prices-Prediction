@@ -38,15 +38,18 @@
 ![plot7](https://user-images.githubusercontent.com/29087240/186299173-d5134e9b-5149-447f-8d7b-763b87cde13d.png)
 ![plot8](https://user-images.githubusercontent.com/29087240/186299188-3c760c0c-b413-46ce-ba5c-c91902d99f4a.png)
 
-### D. Combine different models for improved prediction
+### D. Stacking Model for improved prediction
 * Hyperparameter Tuning
 * XGB Regressor
 * Gradient Boosting Regressor
 * Ridge Regressor
 * ElasticNet Regressor
-* Compare the score of the different models
-* Fit each model to full training data
-* Define combined models for prediction
-* Make predictions and create submissions
+* Stacking Regressor
+* Compare the scores of the different models
+* Fit stacking model to full training data
+* Make predictions
+
+![image](https://github.com/muntasirhsn/Stacking-ML-Model-for-House-Prices-Prediction/assets/29087240/5739c5aa-f92e-4ee8-baec-c20b473caafc)
+
 ### Prediction Accuracy
 * Combined model scored an RMSLE of 0.11405 (< Top 1% on Leaderboard)
