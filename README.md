@@ -45,6 +45,9 @@
 * Ridge Regressor
 * ElasticNet Regressor
 * Stacking Regressor
+
+![image](https://github.com/muntasirhsn/Stacking-ML-Model-for-House-Prices-Prediction/assets/29087240/5739c5aa-f92e-4ee8-baec-c20b473caafc)
+  
 * Compare the scores of the different models
 * Fit stacking model to full training data
 * Make predictions
