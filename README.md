@@ -53,4 +53,4 @@
 * Make predictions
 
 ### Prediction Accuracy
-* Combined model scored an RMSLE of 0.11405 (< Top 1% on Leaderboard)
+* Combined model scored an RMSLE of 0.11365 (< Top 1% on Leaderboard)
